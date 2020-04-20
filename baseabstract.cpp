@@ -16,6 +16,7 @@ BaseAbstract* Creator::createObject(int type)
             obj = new ChildB();
             break;
         default:
+        return nullptr;
             break;
     }
 

@@ -12,7 +12,7 @@ public:
     }
 
     void do_smth() {
-        std::cout << "hey, it'a ChildA" << std::endl;
+        std::cout << "hey, it's a ChildA" << std::endl;
     }
 };
 
@@ -25,7 +25,7 @@ public:
     }
 
     void do_smth() {
-        std::cout << "hey, it'a ChildB" << std::endl;
+        std::cout << "hey, it's a ChildB" << std::endl;
     }
 };
 
